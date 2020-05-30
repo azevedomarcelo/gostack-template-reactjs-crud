@@ -23,6 +23,30 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Vegano",
+      "price": "29.90",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "id": 4,
+      "available": true
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Ao molho picante",
+      "price": "19.95",
+      "description": "Macarrão a molho branco picante",
+      "id": 5,
+      "available": true
+    },
+    {
+      "image": "https://www.saboresajinomoto.com.br/uploads/images/recipes/feijoada-1.jpg",
+      "name": "Feijoada ",
+      "price": "15.99",
+      "description": "Feijoada brasileira light",
+      "id": 6,
+      "available": true
     }
   ]
 }
